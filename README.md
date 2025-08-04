@@ -1,0 +1,1 @@
+In this Data Structure project I've tried to explain the important concepts from basics. You may use chatgpt to understand the courses in depth. My main moto was to give an idea to the bigenners on how to start entering into Data Structure.
