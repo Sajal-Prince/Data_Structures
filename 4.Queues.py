@@ -11,7 +11,7 @@ Queues have few main attributes:
 1. Enqueue - Insert the elements to top of the Queue.
 3. Dequeue - Remove the last inserted element.
 4. IsEmpty - If the Queue front is less than Queue rear
-5. IsFull - If the Queue front is equal to the Size -1 of the Queue.
+5. IsFull - If the Queue front is equal to the Size -1 of the Queue
 """
 
 class Queue:
