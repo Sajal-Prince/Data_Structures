@@ -1,3 +1,5 @@
+from math import sqrt
+
 def prime_preprocessing(n):
     count = 0
     true_primes = {}
